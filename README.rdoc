@@ -1,28 +1,10 @@
-== README
+== Recipe Finder
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Tool created as part of Johns Hopkins "Ruby on Rails: An Introduction" Coursera course.
 
-Things you may want to cover:
+Visit http://recipefinder58290387.herokuapp.com to see it in action.
 
-* Ruby version
+You may specify a keyword to search recipes on www.food2fork.com for by specifying a search term.
+For example, http://recipefinder58290387.herokuapp.com/?search=bread.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Also check out README.md to see the full Functional Requirement of the project and the gems to be installed.
